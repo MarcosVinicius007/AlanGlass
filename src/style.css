@@ -1,0 +1,50 @@
+*{
+    margin:0 ;
+    padding: 0;
+   }
+       
+header{
+    
+    border-radius:10px;
+    margin:5px;
+    padding:30px;
+    background-color: blue;
+}
+ul{
+    font-size:25px ;
+    color:white;
+    display: flex;
+    justify-content: center;
+    justify-content :space-between;
+}
+   
+    .between{
+     
+        margin:5px;
+        padding:30px;
+        display: flex;
+        justify-content: space-between;
+    }
+    img{
+      
+        text-align: center;
+        width:500px ;
+       
+        border-radius:10px;
+    }
+    h1{
+        color:chartreuse;
+       
+        text-align:center;
+    }
+    h2{
+        margin:5px;
+        padding:20px;
+        text-align:center;   
+    }
+    p{
+ text align:justify;
+    }
+
+
+ 
